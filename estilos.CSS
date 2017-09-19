@@ -1,0 +1,49 @@
+body{	font:  oblique bold 100% cursive;
+	Background-color: #0848BE;
+	text-align: center;
+}
+header{
+	font:  oblique bold 130% cursive;
+	text-align: right;
+	Background-color:white;
+	color: darkblue;
+	padding:0.005em;
+}
+nav{	
+
+	Background-color: #0404B4;
+	color: white;
+	text-align: left;
+	
+}
+a{
+	color: white;
+}
+td {
+	border: 1px solid black; 
+	width: 150px;
+	Background-color: white;
+	font:  oblique bold 70% cursive;
+} 
+th {
+	border: 2px solid black; 
+	width: 200px;
+	Background-color: #00BFFF;
+	font:  oblique bold 80% cursive
+}
+
+
+
+table  {
+	align: center;
+	width: 1500px;
+	Background-color: #0000FF;
+}
+
+footer{
+	font:  oblique bold 70% cursive;
+	text-align: left;
+	Background-color:#0174DF;
+	color: white;
+	padding:0.01em;
+}
